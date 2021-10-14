@@ -8,7 +8,7 @@ The Navigation Menu to the mutli-part Red Hat Satellite Provisioning RHEL VMs vS
 
 [Part 3: Preparing Content on Satellite](https://github.com/pslucas0212/Part-3-Preparing-Content-on-Satellite)  
 
-[Part 4: Preparing for the VMWare Integration](https://github.com/pslucas0212/Part-4-Preparing-for-the-VMWare-Integration)
+[Part 4: Preparing for VMWare Integration](https://github.com/pslucas0212/Part-4-Preparing-for-VMWare-Integration)
 
 [Part 5: Preparing for the VMWare VM Provisioing]()
 
