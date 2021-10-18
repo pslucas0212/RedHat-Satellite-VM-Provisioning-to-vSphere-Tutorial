@@ -10,6 +10,6 @@ The Navigation Menu to the mutli-part Red Hat Satellite Provisioning RHEL VMs vS
 
 [Part 4: Preparing for VMWare Integration](https://github.com/pslucas0212/Part-4-Preparing-for-VMWare-Integration)
 
-[Part 5: Preparing for the VMWare VM Provisioing]()
+[Part 5: Preparing for the VMWare VM Provisioing](https://github.com/pslucas0212/Part-5-Perparing-the-Template/edit/main/README.md)
 
 [Part 6: TBD]()
