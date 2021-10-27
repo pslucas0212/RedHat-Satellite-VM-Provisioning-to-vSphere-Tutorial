@@ -15,3 +15,5 @@ The Navigation Menu to the mutli-part Red Hat Satellite Provisioning RHEL VMs to
 [Part 6: Integrating the VMWare Resources with Satellite](https://github.com/pslucas0212/Part-6-TBN)
 
 [Part 7: Provisioing a RHEL 8.3 VM from Satellite]()
+
+[Part xx: Satellite VMWare Provisioning Scrathc Pad](https://github.com/pslucas0212/Part-X-Satellite-VMWare-Provisioning-Scratch-Pad)
