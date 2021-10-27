@@ -1,6 +1,6 @@
 # Red Hat Satellite VM Provisioning to vSphere Tutorial  
 
-The Navigation Menu to the mutli-part Red Hat Satellite Provisioning RHEL VMs vSphere Tutorial  
+The Navigation Menu to the mutli-part Red Hat Satellite Provisioning RHEL VMs to vSphere Tutorial  
 
 [Part 1: Satellite Installation](https://github.com/pslucas0212/Part1-Satellite-Install)
 
