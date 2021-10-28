@@ -12,12 +12,12 @@ The Navigation Menu to the mutli-part Red Hat Satellite Provisioning RHEL VMs to
 
 [Part 5: Adding an Existing RHEL VM to Satellite]()
 
-[Part 6: Setting Up Insights Connectivity for RHEL Remdation](https://github.com/pslucas0212/Part-6-Setting-Up-Insights-Connectivity-for-RHEL-Remdation)
+[Part 6: Setting Up Insights Connectivity for RHEL Remediation](https://github.com/pslucas0212/Part-6-Setting-Up-Insights-Connectivity-for-RHEL-Remdation)
 
 [Part 7: Preparing the VMWare VM Template](https://github.com/pslucas0212/Part-5-Perparing-the-VMWare-VM-Template)
 
 [Part 8: Integrating the VMWare Resources with Satellite](https://github.com/pslucas0212/Part-6-TBN)
 
-[Part 9: Provisioing a RHEL 8.3 VM from Satellite]()
+[Part 9: Provisioning a RHEL 8.3 VM from Satellite]()
 
 [Part xx: Satellite VMWare Provisioning Scratch Pad](https://github.com/pslucas0212/Part-X-Satellite-VMWare-Provisioning-Scratch-Pad)
