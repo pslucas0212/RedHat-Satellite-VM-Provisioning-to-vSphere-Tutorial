@@ -10,7 +10,7 @@ The Navigation Menu to the mutli-part Red Hat Satellite Provisioning RHEL VMs to
 
 [Part 4: Preparing for VMWare Integration](https://github.com/pslucas0212/Part-4-Preparing-for-VMWare-Integration)
 
-[Part 5: Adding an Existing RHEL VM to Satellite]()
+[Part 5: Adding an Existing RHEL VM to Satellite](https://github.com/pslucas0212/Part-5-Adding-an-Existing-RHEL-VM-to-Satellite)
 
 [Part 6: Setting Up Insights Connectivity for RHEL Remediation](https://github.com/pslucas0212/Part-6-Setting-Up-Insights-Connectivity-for-RHEL-Remdation)
 
