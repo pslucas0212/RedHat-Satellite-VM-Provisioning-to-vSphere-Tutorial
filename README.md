@@ -23,4 +23,4 @@ The Navigation Menu to the mutli-part Red Hat Satellite Provisioning RHEL VMs to
 [Future Tutorial: Setting Up Insights Connectivity for RHEL Remediation](https://github.com/pslucas0212/Part-6-Setting-Up-Insights-Connectivity-for-RHEL-Remdation)
 
 ### Apendix Articles
-[Configureing External DNS and DHCP with Satellite](https://github.com/pslucas0212/Configuring-External-DNS-and-DHCP-for-Satellite/blob/main/README.md)
+[Configuring External DNS and DHCP with Satellite](https://github.com/pslucas0212/Configuring-External-DNS-and-DHCP-for-Satellite/blob/main/README.md)
