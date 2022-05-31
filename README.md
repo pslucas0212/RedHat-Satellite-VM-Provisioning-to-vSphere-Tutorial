@@ -24,4 +24,4 @@ The Navigation Menu to the mutli-part Red Hat Satellite Provisioning RHEL VMs to
 ### Apendix Articles
 [Configuring External DNS and DHCP with Satellite](https://github.com/pslucas0212/Configuring-External-DNS-and-DHCP-for-Satellite/blob/main/README.md)
   
-[](https://github.com/pslucas0212/Adding-an-Existing-RHEL-VM-to-Red-Hat-Satellite)
+[Adding an Existing RHEL VM to Red Hat Satellite](https://github.com/pslucas0212/Adding-an-Existing-RHEL-VM-to-Red-Hat-Satellite)
