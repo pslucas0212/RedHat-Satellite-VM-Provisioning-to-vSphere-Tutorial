@@ -16,12 +16,14 @@ The Navigation Menu to the mutli-part Red Hat Satellite Provisioning RHEL VMs to
 
 [Part 7: Provisioning a RHEL 8.3 VM from Satellite](https://github.com/pslucas0212/Part-9-Provisioning-a-RHEL-8.3-VM-from-Satellite/blob/main/README.md)
 
-[Part xx: Satellite VMWare Provisioning Scratch Pad](https://github.com/pslucas0212/Part-X-Satellite-VMWare-Provisioning-Scratch-Pad)  
-
-
-[Future Tutorial: Setting Up Insights Connectivity for RHEL Remediation](https://github.com/pslucas0212/Part-6-Setting-Up-Insights-Connectivity-for-RHEL-Remdation)
 
 ### Apendix Articles
 [Configuring External DNS and DHCP with Satellite](https://github.com/pslucas0212/Configuring-External-DNS-and-DHCP-for-Satellite/blob/main/README.md)
   
 [Adding an Existing RHEL VM to Red Hat Satellite](https://github.com/pslucas0212/Adding-an-Existing-RHEL-VM-to-Red-Hat-Satellite)
+
+
+### Work in Progres
+[Part xx: Satellite VMWare Provisioning Scratch Pad](https://github.com/pslucas0212/Part-X-Satellite-VMWare-Provisioning-Scratch-Pad)  
+
+[Future Tutorial: Setting Up Insights Connectivity for RHEL Remediation](https://github.com/pslucas0212/Part-6-Setting-Up-Insights-Connectivity-for-RHEL-Remdation)
